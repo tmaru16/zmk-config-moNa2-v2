@@ -61,7 +61,7 @@
         cpi = <600>;
         //swap-xy;
         invert-x;       //COROPIT版ではコメントアウトを外す
-        //invert-y;     //この個体ではY軸は反転不要だったためコメントアウト
+        invert-y;     //この個体ではY軸は反転不要だったためコメントアウト
         evt-type = <INPUT_EV_REL>;
         x-input-code = <INPUT_REL_X>;
         y-input-code = <INPUT_REL_Y>;
